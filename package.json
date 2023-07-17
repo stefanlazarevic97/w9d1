@@ -1,0 +1,23 @@
+{
+    "name": "w9d1",
+    "version": "1.0.0",
+    "description": "A browser version of the classic Asteroids game!",
+    "scripts": {
+        "start": "webpack --watch --mode=development"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/stefanlazarevic97/w9d1.git"
+    },
+    "keywords": [],
+    "author": "Stefan Lazarevic",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/stefanlazarevic97/w9d1/issues"
+    },
+    "homepage": "https://github.com/stefanlazarevic97/w9d1#readme",
+    "devDependencies": {
+        "webpack": "^5.88.1",
+        "webpack-cli": "^5.1.4"
+    }
+}
